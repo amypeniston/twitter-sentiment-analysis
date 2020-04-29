@@ -1,6 +1,9 @@
 config/
 data/
 credentials.py
+.deepnote/
+init.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
